@@ -3,7 +3,12 @@ import "../nav/nav.css"
 
 const Nav = () => {
     return (
-        <div>
+        <div className='NavBar'>
+            <li> 
+                <ul>sssssssssssssssssssssssssssssssssssssssssss</ul>
+                <ul>ddddddddddddddddddddddddddddddddd</ul>
+                <ul>cccccccccccccccccccccccccccccccccccccccccccc</ul>
+            </li>
             
         </div>
     );
