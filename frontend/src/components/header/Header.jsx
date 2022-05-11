@@ -6,6 +6,7 @@ import HeaderSocials from './HeaderSocials';
 
 const Header = () => {
     return (
+        <section id='header'>
        <header>
            <div className="container header__container">
           <h5>Bonjour Je suis </h5>
@@ -20,7 +21,7 @@ const Header = () => {
 
            </div>
        </header>
-       
+       </section>
     );
 };
 

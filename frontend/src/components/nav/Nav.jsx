@@ -9,7 +9,7 @@ import {BiMessageRoundedCheck} from "react-icons/bi"
 const Nav = () => {
     return (
        <nav>
-           <a href="#a"><BiHomeSmile/></a>
+           <a href="#header" className='active'><BiHomeSmile/></a>
             <a href="#about"><BiUserVoice/></a>
              <a href="#experience"><FiBookOpen/></a>
               <a href="#services"><RiServiceLine/></a>
