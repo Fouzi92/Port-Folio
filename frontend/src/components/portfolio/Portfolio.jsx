@@ -20,8 +20,10 @@ const Portfolio = () => {
                      <img src={IMG1} alt="" />
                  </div>
                    <h3>Titre du projet </h3>
+                   <div className="portfolio__item-image">
                    <a href="https://github.com/Fouzi92" className='btn' target='_blank'rel="noreferrer" >github</a>
                    <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'rel="noreferrer">Démo</a>
+                 </div>
                 </article>
 
                 <article className='portfolio__item'>
@@ -29,8 +31,10 @@ const Portfolio = () => {
                      <img src={IMG2} alt="" />
                   </div>
                    <h3>Titre du projet </h3>
+                   <div className="portfolio__item-image">
                    <a href="https://github.com/Fouzi92" className='btn' target='_blank'rel="noreferrer" >github</a>
                    <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'rel="noreferrer">Démo</a>
+                 </div>
                 </article>
 
                 <article className='portfolio__item'>
@@ -38,8 +42,10 @@ const Portfolio = () => {
                      <img src={IMG3} alt="" />
                   </div>
                    <h3>Titre du projet </h3>
+                   <div className="portfolio__item-image">
                    <a href="https://github.com/Fouzi92" className='btn' target='_blank'rel="noreferrer" >github</a>
                    <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'rel="noreferrer">Démo</a>
+                 </div>
                 </article>
 
                 <article className='portfolio__item'>
@@ -47,8 +53,10 @@ const Portfolio = () => {
                      <img src={IMG4} alt="" />
                   </div>
                    <h3>Titre du projet </h3>
+                   <div className="portfolio__item-image"> 
                    <a href="https://github.com/Fouzi92" className='btn' target='_blank'rel="noreferrer" >github</a>
                    <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'rel="noreferrer">Démo</a>
+                 </div>
                 </article>
 
                 <article className='portfolio__item'>
@@ -56,8 +64,10 @@ const Portfolio = () => {
                      <img src={IMG5} alt="" />
                   </div>
                    <h3>Titre du projet </h3>
+                   <div className="portfolio__item-image"> 
                    <a href="https://github.com/Fouzi92" className='btn' target='_blank'rel="noreferrer" >github</a>
                    <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'rel="noreferrer">Démo</a>
+                 </div>
                 </article>
 
                 <article className='portfolio__item'>
@@ -65,8 +75,10 @@ const Portfolio = () => {
                      <img src={IMG6} alt="" />
                   </div>
                    <h3>Titre du projet </h3>
+                   <div className="portfolio__item-image"> 
                    <a href="https://github.com/Fouzi92" className='btn' target='_blank'rel="noreferrer" >github</a>
                    <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'rel="noreferrer">Démo</a>
+                 </div>
                 </article>
 
                 
